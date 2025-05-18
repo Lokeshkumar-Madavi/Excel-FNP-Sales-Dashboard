@@ -3,8 +3,11 @@
 ## Table Contain
 
 1.[ Purpose of Sales Analytics](url)
-2.[ Key Features](url)
-3. [Data and Tools Used](url)
+
+2.[ Key Features](URL)
+
+3. [Data and Tools Used](URL)
+
 4.[ Workflow Breakdown](url)
 
 

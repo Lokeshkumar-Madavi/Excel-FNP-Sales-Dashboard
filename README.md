@@ -2,10 +2,10 @@
 
 ## Table Contain
 
-1. Purpose-of-ales-Analytics
-2. Key Features
-3. Data and Tools Used
-4. Workflow Breakdown
+1.[ Purpose of Sales Analytics](url)
+2.[ Key Features](url)
+3. [Data and Tools Used](url)
+4.[ Workflow Breakdown](url)
 
 
 

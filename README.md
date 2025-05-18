@@ -1,6 +1,11 @@
 # Excel-FNP-Sales-Dashboard
 
+## Table Contain
 
-## Situation: Ferns and Petals, a leading gifting platform catering to festive and personal occasions, seeks to optimize its business performance.  
+1.Purpose of Sales Analytics [Purpose of Sales Analytics]
+2.Key Features [Key Features]
+3.Data and Tools Used [Data and Tools Used]
+4.Workflow Breakdown
 
-## Task:  The goal is to identify sales trends, understand customer behavior, and evaluate product performance to support data-driven decision-making.
+
+

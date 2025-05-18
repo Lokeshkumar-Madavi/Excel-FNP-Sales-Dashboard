@@ -13,7 +13,7 @@
 
 # 1. Purpose of Sales Analytics
 
-#2. Key Features
+# 2. Key Features
 
 
 

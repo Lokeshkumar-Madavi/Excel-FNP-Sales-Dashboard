@@ -2,7 +2,7 @@
 
 ## Table Contain
 
-1. [Purpose of Sales Analytics]_(#Purpose of Sales Analytics)
+1. [[Purpose of Sales Analytics](url)]_(#Purpose of Sales Analytics)
 2. [Key Features](#Key Features)
 3. [Data and Tools Used](#Data and Tools Used)
 4.Workflow Breakdown(#Workflow Breakdown)

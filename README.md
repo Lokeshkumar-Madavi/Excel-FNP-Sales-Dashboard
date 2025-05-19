@@ -69,6 +69,9 @@ CSV Files from FNP :
      * Top 10 Cities by Orders:
         Highlighted cities with the highest number of orders to target key markets and optimize logistics.
 
+     ![FNP Dashboard](https://github.com/user-attachments/assets/b008a08c-38b1-4dbd-9016-e53337f97921)
+
+
 ## 5.Executive Summery
 
 This Sales Analysis Dashboard provides a comprehensive overview of sales performance, customer behavior, and product trends for FNP (Ferns N Petals). The dataset includes 1,000 total orders, generating a total revenue of ₹35,20,984, with the average customer spending ₹3,520.98. The average order-delivery time is 5.53 days, indicating moderately prompt fulfillment across operations.

@@ -86,8 +86,9 @@ This Sales Analysis Dashboard provides a comprehensive overview of sales perform
 
 
 3. Product Category Performance
-       * Best: Flowers (>₹11L), Sweets, Soft Toys
-       * Low: Mugs, Plants
+
+    * Best: Flowers (>₹11L), Sweets, Soft Toys
+    * Low: Mugs, Plants
 
 
 4. Time-Based Revenue Trends

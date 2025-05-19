@@ -92,7 +92,7 @@ This Sales Analysis Dashboard provides a comprehensive overview of sales perform
 
 4. Time-Based Revenue Trends
       * Peak Hours: 4 PM – 9 PM
-     *  Peak Months: March, August
+      *  Peak Months: March, August
        → Run campaigns in evenings; ramp up for festival months.
 
 5. Top Products
@@ -100,7 +100,7 @@ This Sales Analysis Dashboard provides a comprehensive overview of sales perform
 
 
 6. Top Cities by Orders
-         *   Leading: Imphal, Dhanbad, Kavali→ Localize campaigns in high-performing cities.
+       * Leading: Imphal, Dhanbad, Kavali→ Localize campaigns in high-performing cities.
 
 
 

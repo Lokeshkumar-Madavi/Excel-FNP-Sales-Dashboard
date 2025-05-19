@@ -99,8 +99,7 @@ This Sales Analysis Dashboard provides a comprehensive overview of sales perform
       * Bestsellers: Magnam Set, Quia Gift, Dolores Gift, Harum Pack (~₹1.2L each)
 
 
-6. Top Cities by Orders
-       * Leading: Imphal, Dhanbad, Kavali→ Localize campaigns in high-performing cities.
+6. Top Cities by Orders =  Leading: Imphal, Dhanbad, Kavali
 
 
 

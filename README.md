@@ -36,40 +36,40 @@ CSV Files from FNP :
 
 ## 4.Workflow Breakdown
 
- 1. Data Loading
+  1. Data Loading
 
- * Imported CSV files from Fern N Petals into Power Query: customers.csv, products.csv, orders.csv
+   * Imported CSV files from Fern N Petals into Power Query: customers.csv, products.csv, orders.csv
 
  2. Data Cleaning and Transformation
 
-  * Performed data cleaning in Power Query Editor : removed duplicates, unnecessary columns, and transform into standardized formats.
+   * Performed data cleaning in Power Query Editor : removed duplicates, unnecessary columns, and transform into standardized formats.
 
  3. Data Modeling
-  * Used Power Pivot with a star schema approach to model data and build accurate table relationships for reporting.
+    * Used Power Pivot with a star schema approach to model data and build accurate table relationships for reporting.
 
-  4. Data Analysis
+ 4. Data Analysis
 
    * Analyzed data using Pivot Tables and created key KPIs to track revenue, order trends, delivery times, average customer spending.
 
  5. Dashboard Creation
 
-* Revenue by Occasion:
-  Analyzed revenue distribution across key occasions like Diwali, Valentine’s Day, etc., to identify high-performing events.
+   * Revenue by Occasion:
+     Analyzed revenue distribution across key occasions like Diwali, Valentine’s Day, etc., to identify high-performing events.
 
-* Product Category by Revenue:
-  Evaluated which product categories generate the most revenue.
+   * Product Category by Revenue:
+     Evaluated which product categories generate the most revenue.
 
- * Revenue by Order Time (in Hours):
-   Tracked revenue trends based on the hour of order placement to determine peak sales times.
+   * Revenue by Order Time (in Hours):
+    Tracked revenue trends based on the hour of order placement to determine peak sales times.
 
- * Revenue by Month:
-   Assessed monthly revenue patterns to understand seasonality and identify growth opportunities.
+   * Revenue by Month:
+     Assessed monthly revenue patterns to understand seasonality and identify growth opportunities.
 
- * Top 5 Products by Revenue:
-   Identified the five highest-earning products to spotlight bestsellers and customer preferences.
+   * Top 5 Products by Revenue:
+     Identified the five highest-earning products to spotlight bestsellers and customer preferences.
 
- * Top 10 Cities by Orders:
-   Highlighted cities with the highest number of orders to target key markets and optimize logistics.
+   * Top 10 Cities by Orders:
+      Highlighted cities with the highest number of orders to target key markets and optimize logistics.
 
 ## 5.Executive Summery
 
@@ -79,44 +79,44 @@ This Sales Analysis Dashboard provides a comprehensive overview of sales perform
 
  1. Sales Overview
 
-  * Total Orders: 1,000
+   * Total Orders: 1,000
 
- * Revenue: ₹35.2 Lakhs
+   * Revenue: ₹35.2 Lakhs
 
- * Avg. Order Value: ₹3,520.98
+   * Avg. Order Value: ₹3,520.98
 
- * Avg. Delivery Time: 5.53 days
+   * Avg. Delivery Time: 5.53 days
 
 
 2. Revenue by Occasion
 
- * Top: Anniversary, Raksha Bandhan (>₹6.5L each)
+   * Top: Anniversary, Raksha Bandhan (>₹6.5L each)
 
- * Low: Valentine’s Day, Diwali
+   * Low: Valentine’s Day, Diwali
 
 
 3. Product Category Performance
 
- * Best: Flowers (>₹11L), Sweets, Soft Toys
+   * Best: Flowers (>₹11L), Sweets, Soft Toys
 
- * Low: Mugs, Plants
+   * Low: Mugs, Plants
 
 
 4. Time-Based Revenue Trends
 
- * Peak Hours: 4 PM – 9 PM
+   * Peak Hours: 4 PM – 9 PM
 
- * Peak Months: March, August
+   * Peak Months: March, August
    → Run campaigns in evenings; ramp up for festival months.
 
 5. Top Products
 
- * Bestsellers: Magnam Set, Quia Gift, Dolores Gift, Harum Pack (~₹1.2L each)
+   * Bestsellers: Magnam Set, Quia Gift, Dolores Gift, Harum Pack (~₹1.2L each)
 
 
 6. Top Cities by Orders
 
- * Leading: Imphal, Dhanbad, Kavali→ Localize campaigns in high-performing cities.
+   * Leading: Imphal, Dhanbad, Kavali→ Localize campaigns in high-performing cities.
 
 
 

@@ -26,7 +26,7 @@ Ferns and Petals, a leading gifting platform catering to festive and personal oc
 
  10. Identify popular products for each occasion.
 
-## 3.Data and Tools Used
+## 3.Data Used
 
 CSV Files from FNP :
 

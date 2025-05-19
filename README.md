@@ -44,7 +44,7 @@ CSV Files from FNP :
 
  3. Data Modeling
        * Used Power Pivot with a star schema approach to model data and build accurate table relationships for reporting.
-      ![![Data Model](https://github.com/user-attachments/assets/71c46bbd-029f-471f-83df-c4f657591e73)
+      ![Data Model](https://github.com/user-attachments/assets/71c46bbd-029f-471f-83df-c4f657591e73)
 
 
  4. Data Analysis

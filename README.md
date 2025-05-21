@@ -4,6 +4,8 @@
 ## 1.Purpose of Sales Analysis
 Ferns and Petals, a leading gifting platform catering to festive and personal occasions, seeks to optimize its business performance. With a comprehensive dataset containing order, product, customer, and date information. The goal is to identify sales trends, understand customer behavior, and evaluate product performance to support data-driven decision-making.
 
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FLokeshkumar-Madavi%2FExcel-FNP_Sales_Dashboard%2Frefs%2Fheads%2Fmain%2FFNP%2520Sales%2520Data%2520Project%2520%2526%2520Dashboard.xlsx&wdOrigin=BROWSELINK
+
 ## 2.Objective
 
  1. Calculate total revenue generated.
